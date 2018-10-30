@@ -1,0 +1,4 @@
+[{{cookiecutter.application_name}}.application_collections]
+
+[pytest11]
+{{cookiecutter.application_name}} = {{cookiecutter.application_name}}.pytest_plugin
